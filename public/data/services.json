@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Facebook",
-    "logo": "stakeholders/facebook/logo/v2.png",
+    "logo": "/stakeholders/facebook/logo/v2.png",
     "score": 5,
     "country": "United States of America",
     "country_iso": "us",
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "name": "Quora",
-    "logo": "stakeholders/quora/logo/v2.png",
+    "logo": "/stakeholders/quora/logo/v2.png",
     "score": 2,
     "country": "United States of America",
     "country_iso": "us",
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "name": "Tinder",
-    "logo": "stakeholders/tinder/logo/v2.png",
+    "logo": "/stakeholders/tinder/logo/v2.png",
     "score": 2,
     "country": "United States of America",
     "country_iso": "us",
@@ -50,7 +50,7 @@
   {
     "id": 14,
     "name": "WhatsApp",
-    "logo": "stakeholders/whatsapp/logo/v2.png",
+    "logo": "/stakeholders/whatsapp/logo/v2.png",
     "score": 3,
     "country": "United States of America",
     "country_iso": "us",
@@ -66,7 +66,7 @@
   {
     "id": 17,
     "name": "Uber",
-    "logo": "stakeholders/uber/logo/v2.png",
+    "logo": "/stakeholders/uber/logo/v2.png",
     "score": 5,
     "country": "United States of America",
     "country_iso": "us",
@@ -82,7 +82,7 @@
   {
     "id": 18,
     "name": "LinkedIn",
-    "logo": "stakeholders/linkedin/logo/v2.png",
+    "logo": "/stakeholders/linkedin/logo/v2.png",
     "score": 3,
     "country": "United States of America",
     "country_iso": "us",
@@ -98,7 +98,7 @@
   {
     "id": 19,
     "name": "Slack",
-    "logo": "stakeholders/slack/logo/v2.png",
+    "logo": "/stakeholders/slack/logo/v2.png",
     "score": 4,
     "country": "United States of America",
     "country_iso": "us",
@@ -114,7 +114,7 @@
   {
     "id": 20,
     "name": "Twitter",
-    "logo": "stakeholders/twitter/logo/v2.png",
+    "logo": "/stakeholders/twitter/logo/v2.png",
     "score": 4,
     "country": "United States of America",
     "country_iso": "us",
@@ -130,7 +130,7 @@
   {
     "id": 21,
     "name": "Google",
-    "logo": "stakeholders/google/logo/v2.png",
+    "logo": "/stakeholders/google/logo/v2.png",
     "score": 5,
     "country": "United States of America",
     "country_iso": "us",
@@ -146,7 +146,7 @@
   {
     "id": 22,
     "name": "Airbnb",
-    "logo": "stakeholders/airbnb/logo/v2.png",
+    "logo": "/stakeholders/airbnb/logo/v2.png",
     "score": 4,
     "country": "United States of America",
     "country_iso": "us",
@@ -162,7 +162,7 @@
   {
     "id": 23,
     "name": "Paypal",
-    "logo": "stakeholders/paypal/logo/paypal.png",
+    "logo": "/stakeholders/paypal/logo/paypal.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -178,7 +178,7 @@
   {
     "id": 24,
     "name": "E-Leclerc",
-    "logo": "stakeholders/eleclerc/logo/v2.png",
+    "logo": "/stakeholders/eleclerc/logo/v2.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "name": "Decatlhon",
-    "logo": "stakeholders/decatlhon/logo/v2.png",
+    "logo": "/stakeholders/decatlhon/logo/v2.png",
     "score": 2,
     "country": "France",
     "country_iso": "fr",
@@ -210,7 +210,7 @@
   {
     "id": 26,
     "name": "Celio",
-    "logo": "stakeholders/celio/logo/v2.png",
+    "logo": "/stakeholders/celio/logo/v2.png",
     "score": 1,
     "country": "France",
     "country_iso": "fr",
@@ -226,7 +226,7 @@
   {
     "id": 27,
     "name": "cdiscount",
-    "logo": "stakeholders/cdiscount/logo/v2.png",
+    "logo": "/stakeholders/cdiscount/logo/v2.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -242,7 +242,7 @@
   {
     "id": 28,
     "name": "Oui.sncf",
-    "logo": "stakeholders/oui_sncf/logo/v2.png",
+    "logo": "/stakeholders/oui_sncf/logo/v2.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -258,7 +258,7 @@
   {
     "id": 29,
     "name": "Fnac Darty",
-    "logo": "stakeholders/fnac_darty/logo/v2.png",
+    "logo": "/stakeholders/fnac_darty/logo/v2.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -274,7 +274,7 @@
   {
     "id": 30,
     "name": "Auchan",
-    "logo": "stakeholders/auchan/logo/v2.png",
+    "logo": "/stakeholders/auchan/logo/v2.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -290,7 +290,7 @@
   {
     "id": 31,
     "name": "Groupe Casino",
-    "logo": "stakeholders/groupe_casino/logo/v2.png",
+    "logo": "/stakeholders/groupe_casino/logo/v2.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -306,7 +306,7 @@
   {
     "id": 32,
     "name": "McDonald's",
-    "logo": "stakeholders/mac_do/logo/v2.png",
+    "logo": "/stakeholders/mac_do/logo/v2.png",
     "score": 2,
     "country": "United States of America",
     "country_iso": "us",
@@ -322,7 +322,7 @@
   {
     "id": 33,
     "name": "Netflix",
-    "logo": "stakeholders/netflix/logo/v2.png",
+    "logo": "/stakeholders/netflix/logo/v2.png",
     "score": 5,
     "country": "United States of America",
     "country_iso": "us",
@@ -338,7 +338,7 @@
   {
     "id": 34,
     "name": "EasyJet",
-    "logo": "stakeholders/easyjet/logo/v2.png",
+    "logo": "/stakeholders/easyjet/logo/v2.png",
     "score": 3,
     "country": "Jersey",
     "country_iso": "je",
@@ -354,7 +354,7 @@
   {
     "id": 35,
     "name": "Flickr",
-    "logo": "stakeholders/flickr/logo/flickr.png",
+    "logo": "/stakeholders/flickr/logo/flickr.png",
     "score": 1,
     "country": "United States of America",
     "country_iso": "us",
@@ -370,7 +370,7 @@
   {
     "id": 36,
     "name": "Trello",
-    "logo": "stakeholders/trello/logo/trello.png",
+    "logo": "/stakeholders/trello/logo/trello.png",
     "score": 1,
     "country": "Australia",
     "country_iso": "au",
@@ -386,7 +386,7 @@
   {
     "id": 37,
     "name": "Pocket",
-    "logo": "stakeholders/pocket/logo/pocket.png",
+    "logo": "/stakeholders/pocket/logo/pocket.png",
     "score": 0,
     "country": "United States of America",
     "country_iso": "us",
@@ -402,7 +402,7 @@
   {
     "id": 38,
     "name": "GoPro",
-    "logo": "stakeholders/gopro/logo/gopro.png",
+    "logo": "/stakeholders/gopro/logo/gopro.png",
     "score": 1,
     "country": "United States of America",
     "country_iso": "us",
@@ -418,7 +418,7 @@
   {
     "id": 39,
     "name": "Samsung",
-    "logo": "stakeholders/samsung/logo/samsung.png",
+    "logo": "/stakeholders/samsung/logo/samsung.png",
     "score": 5,
     "country": "South Korea",
     "country_iso": "kr",
@@ -434,7 +434,7 @@
   {
     "id": 40,
     "name": "17track",
-    "logo": "stakeholders/17track/logo/17track.png",
+    "logo": "/stakeholders/17track/logo/17track.png",
     "score": -1,
     "country": "China",
     "country_iso": "cn",
@@ -450,7 +450,7 @@
   {
     "id": 41,
     "name": "Aliexpress",
-    "logo": "stakeholders/aliexpress/logo/aliexpress.png",
+    "logo": "/stakeholders/aliexpress/logo/aliexpress.png",
     "score": -1,
     "country": "China",
     "country_iso": "cn",
@@ -466,7 +466,7 @@
   {
     "id": 42,
     "name": "Banggood",
-    "logo": "stakeholders/banggood/logo/banggood.png",
+    "logo": "/stakeholders/banggood/logo/banggood.png",
     "score": -1,
     "country": "China",
     "country_iso": "cn",
@@ -482,7 +482,7 @@
   {
     "id": 43,
     "name": "Dealabs",
-    "logo": "stakeholders/dealabs/logo/dealabs.png",
+    "logo": "/stakeholders/dealabs/logo/dealabs.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -498,7 +498,7 @@
   {
     "id": 44,
     "name": "Bouygues Telecom",
-    "logo": "stakeholders/bouygues/logo/bouygues.png",
+    "logo": "/stakeholders/bouygues/logo/bouygues.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -514,7 +514,7 @@
   {
     "id": 45,
     "name": "FidMe",
-    "logo": "stakeholders/fidme/logo/fidme.png",
+    "logo": "/stakeholders/fidme/logo/fidme.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -530,7 +530,7 @@
   {
     "id": 46,
     "name": "Feedly",
-    "logo": "stakeholders/feedly/logo/feedly.png",
+    "logo": "/stakeholders/feedly/logo/feedly.png",
     "score": 2,
     "country": "United States of America",
     "country_iso": "us",
@@ -546,7 +546,7 @@
   {
     "id": 47,
     "name": "Mozilla",
-    "logo": "stakeholders/firefox/logo/firefox.png",
+    "logo": "/stakeholders/firefox/logo/firefox.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -562,7 +562,7 @@
   {
     "id": 48,
     "name": "Qwant",
-    "logo": "stakeholders/qwant/logo/qwant.png",
+    "logo": "/stakeholders/qwant/logo/qwant.png",
     "score": 0,
     "country": "France",
     "country_iso": "fr",
@@ -578,7 +578,7 @@
   {
     "id": 49,
     "name": "TF1",
-    "logo": "stakeholders/tf1/logo/tf1.png",
+    "logo": "/stakeholders/tf1/logo/tf1.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -594,7 +594,7 @@
   {
     "id": 50,
     "name": "France Télévisions",
-    "logo": "stakeholders/franceTV/logo/franceTV.png",
+    "logo": "/stakeholders/franceTV/logo/franceTV.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -610,7 +610,7 @@
   {
     "id": 51,
     "name": "GearBest",
-    "logo": "stakeholders/gearbest/logo/gearbest.png",
+    "logo": "/stakeholders/gearbest/logo/gearbest.png",
     "score": -1,
     "country": "China",
     "country_iso": "cn",
@@ -626,7 +626,7 @@
   {
     "id": 52,
     "name": "Glympse",
-    "logo": "stakeholders/glympse/logo/glympse.png",
+    "logo": "/stakeholders/glympse/logo/glympse.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -642,7 +642,7 @@
   {
     "id": 53,
     "name": "Withings",
-    "logo": "stakeholders/withings/logo/withings.png",
+    "logo": "/stakeholders/withings/logo/withings.png",
     "score": 3,
     "country": "France",
     "country_iso": "fr",
@@ -658,7 +658,7 @@
   {
     "id": 54,
     "name": "Philips",
-    "logo": "stakeholders/philips/logo/philips.png",
+    "logo": "/stakeholders/philips/logo/philips.png",
     "score": -1,
     "country": "Netherlands",
     "country_iso": "nl",
@@ -674,7 +674,7 @@
   {
     "id": 55,
     "name": "IFTTT",
-    "logo": "stakeholders/ifttt/logo/ifttt.png",
+    "logo": "/stakeholders/ifttt/logo/ifttt.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -690,7 +690,7 @@
   {
     "id": 56,
     "name": "TP-Link",
-    "logo": "stakeholders/tplink/logo/tplink.png",
+    "logo": "/stakeholders/tplink/logo/tplink.png",
     "score": -1,
     "country": "China",
     "country_iso": "cn",
@@ -706,7 +706,7 @@
   {
     "id": 57,
     "name": "Kayak",
-    "logo": "stakeholders/kayak/logo/kayak.png",
+    "logo": "/stakeholders/kayak/logo/kayak.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -722,7 +722,7 @@
   {
     "id": 58,
     "name": "KickStarter",
-    "logo": "stakeholders/kickstarter/logo/kickstarter.png",
+    "logo": "/stakeholders/kickstarter/logo/kickstarter.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -738,7 +738,7 @@
   {
     "id": 59,
     "name": "Motorola",
-    "logo": "stakeholders/motorola/logo/motorola.png",
+    "logo": "/stakeholders/motorola/logo/motorola.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -754,7 +754,7 @@
   {
     "id": 60,
     "name": "Lovebox",
-    "logo": "stakeholders/lovebox/logo/lovebox.png",
+    "logo": "/stakeholders/lovebox/logo/lovebox.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -770,7 +770,7 @@
   {
     "id": 61,
     "name": "Mailchimp",
-    "logo": "stakeholders/mailchimp/logo/mailchimp.png",
+    "logo": "/stakeholders/mailchimp/logo/mailchimp.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -786,7 +786,7 @@
   {
     "id": 62,
     "name": "Mariages.net",
-    "logo": "stakeholders/mariages.net/logo/mariagesnet.png",
+    "logo": "/stakeholders/mariages.net/logo/mariagesnet.png",
     "score": -1,
     "country": "Spain",
     "country_iso": "es",
@@ -802,7 +802,7 @@
   {
     "id": 63,
     "name": "MyEggo.com",
-    "logo": "stakeholders/myeggo/logo/myeggo.png",
+    "logo": "/stakeholders/myeggo/logo/myeggo.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -818,7 +818,7 @@
   {
     "id": 64,
     "name": "Silkke",
-    "logo": "stakeholders/slikke/logo/slikke.png",
+    "logo": "/stakeholders/slikke/logo/slikke.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -834,7 +834,7 @@
   {
     "id": 65,
     "name": "Cinéma Pathé",
-    "logo": "stakeholders/pathe/logo/pathe.png",
+    "logo": "/stakeholders/pathe/logo/pathe.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -850,7 +850,7 @@
   {
     "id": 66,
     "name": "Periscope",
-    "logo": "stakeholders/periscope/logo/periscope.png",
+    "logo": "/stakeholders/periscope/logo/periscope.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -866,7 +866,7 @@
   {
     "id": 67,
     "name": "Marvel Pop",
-    "logo": "stakeholders/marvel_pop/logo/marvel_pop.png",
+    "logo": "/stakeholders/marvel_pop/logo/marvel_pop.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -882,7 +882,7 @@
   {
     "id": 68,
     "name": "Reddit",
-    "logo": "stakeholders/reddit/logo/reddit.png",
+    "logo": "/stakeholders/reddit/logo/reddit.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -898,7 +898,7 @@
   {
     "id": 69,
     "name": "Ryanair",
-    "logo": "stakeholders/ryanair/logo/ryanair.png",
+    "logo": "/stakeholders/ryanair/logo/ryanair.png",
     "score": -1,
     "country": "United Kingdom",
     "country_iso": "gb",
@@ -914,7 +914,7 @@
   {
     "id": 70,
     "name": "Send Anywhere",
-    "logo": "stakeholders/send_anywhere/logo/send_anywhere.png",
+    "logo": "/stakeholders/send_anywhere/logo/send_anywhere.png",
     "score": -1,
     "country": "Germany",
     "country_iso": "de",
@@ -930,7 +930,7 @@
   {
     "id": 71,
     "name": "SeriesGuide",
-    "logo": "stakeholders/seriesguide/logo/seriesguide.png",
+    "logo": "/stakeholders/seriesguide/logo/seriesguide.png",
     "score": -1,
     "country": "Germany",
     "country_iso": "de",
@@ -946,7 +946,7 @@
   {
     "id": 72,
     "name": "Trakt.tv",
-    "logo": "stakeholders/trakt_tv/logo/trakt_tv.png",
+    "logo": "/stakeholders/trakt_tv/logo/trakt_tv.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -962,7 +962,7 @@
   {
     "id": 73,
     "name": "Shazam",
-    "logo": "stakeholders/shazam/logo/shazam.png",
+    "logo": "/stakeholders/shazam/logo/shazam.png",
     "score": -1,
     "country": "United Kingdom",
     "country_iso": "gb",
@@ -978,7 +978,7 @@
   {
     "id": 74,
     "name": "Songkick",
-    "logo": "stakeholders/songkick/logo/songkick.png",
+    "logo": "/stakeholders/songkick/logo/songkick.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -994,7 +994,7 @@
   {
     "id": 75,
     "name": "Teamviewer",
-    "logo": "stakeholders/teamviewer/logo/teamviewer.png",
+    "logo": "/stakeholders/teamviewer/logo/teamviewer.png",
     "score": -1,
     "country": "Germany",
     "country_iso": "de",
@@ -1010,7 +1010,7 @@
   {
     "id": 76,
     "name": "Too Good To Go",
-    "logo": "stakeholders/toogoodtogo/logo/toogoodtogo.png",
+    "logo": "/stakeholders/toogoodtogo/logo/toogoodtogo.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1026,7 +1026,7 @@
   {
     "id": 77,
     "name": "Tripadvisor",
-    "logo": "stakeholders/tripadvisor/logo/tripadvisor.png",
+    "logo": "/stakeholders/tripadvisor/logo/tripadvisor.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1042,7 +1042,7 @@
   {
     "id": 78,
     "name": "Tunein",
-    "logo": "stakeholders/tunein/logo/tunein.png",
+    "logo": "/stakeholders/tunein/logo/tunein.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1058,7 +1058,7 @@
   {
     "id": 79,
     "name": "Viadeo",
-    "logo": "stakeholders/viadeo/logo/viadeo.png",
+    "logo": "/stakeholders/viadeo/logo/viadeo.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1074,7 +1074,7 @@
   {
     "id": 80,
     "name": "Vivatech",
-    "logo": "stakeholders/vivatech/logo/vivatech.png",
+    "logo": "/stakeholders/vivatech/logo/vivatech.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1090,7 +1090,7 @@
   {
     "id": 81,
     "name": "Wordpress",
-    "logo": "stakeholders/wordpress/logo/wordpress.png",
+    "logo": "/stakeholders/wordpress/logo/wordpress.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1106,7 +1106,7 @@
   {
     "id": 82,
     "name": "Yuka",
-    "logo": "stakeholders/yuka/logo/yuka.png",
+    "logo": "/stakeholders/yuka/logo/yuka.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1122,7 +1122,7 @@
   {
     "id": 83,
     "name": "Github",
-    "logo": "stakeholders/github/logo/github.png",
+    "logo": "/stakeholders/github/logo/github.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1138,7 +1138,7 @@
   {
     "id": 84,
     "name": "Wish",
-    "logo": "stakeholders/wish/logo/wish.png",
+    "logo": "/stakeholders/wish/logo/wish.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1154,7 +1154,7 @@
   {
     "id": 85,
     "name": "Humble Bundle",
-    "logo": "stakeholders/humblebundle/logo/humblebundle.png",
+    "logo": "/stakeholders/humblebundle/logo/humblebundle.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1170,7 +1170,7 @@
   {
     "id": 86,
     "name": "La Fourchette",
-    "logo": "stakeholders/lafourchette/logo/lafourchette.png",
+    "logo": "/stakeholders/lafourchette/logo/lafourchette.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1186,7 +1186,7 @@
   {
     "id": 87,
     "name": "M6",
-    "logo": "stakeholders/m6/logo/m6.png",
+    "logo": "/stakeholders/m6/logo/m6.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1202,7 +1202,7 @@
   {
     "id": 88,
     "name": "Sony",
-    "logo": "stakeholders/sony/logo/sony.png",
+    "logo": "/stakeholders/sony/logo/sony.png",
     "score": -1,
     "country": "Japan",
     "country_iso": "jp",
@@ -1218,7 +1218,7 @@
   {
     "id": 89,
     "name": "Centre Pompidou",
-    "logo": "stakeholders/centrepompidou/logo/centrepompidou.png",
+    "logo": "/stakeholders/centrepompidou/logo/centrepompidou.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1234,7 +1234,7 @@
   {
     "id": 90,
     "name": "OVH",
-    "logo": "stakeholders/ovh/logo/ovh.png",
+    "logo": "/stakeholders/ovh/logo/ovh.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1250,7 +1250,7 @@
   {
     "id": 91,
     "name": "Conforama",
-    "logo": "stakeholders/conforama/logo/conforama.png",
+    "logo": "/stakeholders/conforama/logo/conforama.png",
     "score": -1,
     "country": "France",
     "country_iso": "fr",
@@ -1266,7 +1266,7 @@
   {
     "id": 92,
     "name": "Stackoverflow",
-    "logo": "stakeholders/stackoverflow/logo/stackoverflow.png",
+    "logo": "/stakeholders/stackoverflow/logo/stackoverflow.png",
     "score": -1,
     "country": "United States of America",
     "country_iso": "us",
@@ -1282,7 +1282,7 @@
   {
     "id": 93,
     "name": "Udemy",
-    "logo": "stakeholders/udemy/logo/udemy.png",
+    "logo": "/stakeholders/udemy/logo/udemy.png",
     "score": -1,
     "country": "United Kingdom",
     "country_iso": "gb",
@@ -1298,7 +1298,7 @@
   {
     "id": 94,
     "name": "Brico Depot",
-    "logo": "stakeholders/bricodepot/logo/bricodepot.png",
+    "logo": "/stakeholders/bricodepot/logo/bricodepot.png",
     "score": -1,
     "country": null,
     "country_iso": null,
@@ -1314,7 +1314,7 @@
   {
     "id": 95,
     "name": "Jeremy - Enovateurs",
-    "logo": "",
+    "logo": "/stakeholders/lesenovateurs/les-enovateurs.webp",
     "score": 0,
     "country": null,
     "country_iso": null,
@@ -1330,7 +1330,7 @@
   {
     "id": 96,
     "name": "Jeremy - Enovateurs",
-    "logo": "",
+    "logo": "/stakeholders/lesenovateurs/les-enovateurs.webp",
     "score": 0,
     "country": null,
     "country_iso": null,
@@ -1346,7 +1346,7 @@
   {
     "id": 97,
     "name": "sd",
-    "logo": "",
+    "logo": "/stakeholders/lesenovateurs/les-enovateurs.webp",
     "score": 0,
     "country": null,
     "country_iso": null,
